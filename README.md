@@ -1,17 +1,15 @@
 # Hasan Ismail – Data Analytics Portfolio
 
 ## About Me
-Aspiring data analyst with hands-on experience in data cleaning,
-analysis, and visualization using Google Sheets, SQL, and R.
+Aspiring data analyst with hands-on experience transforming raw fitness data into actionable insights using Google Sheets, SQL, and R.  
+Interested in product analytics, user behavior, and data-driven decision-making.
+
 
 ## Case Studies
 
 ### 1. Bellabeat Fitbit User Analysis (Google Sheets)
-- Tools: Google Sheets
-- Skills: Data cleaning, EDA, pivot tables, data visualization
-- Outcome: Identified daily activity and sleep patterns to inform
-  Bellabeat marketing and product strategy
 
+📊 **Presentation:**
 [View case study →]([./case-studies/bellabeat-fitbit](https://docs.google.com/presentation/d/14Rf3wEG9BHTF1BlTYnb5OeNzpZxNqeAGIH42CLaTmPo/edit?usp=sharing.)
 
 ## Business Task
@@ -31,14 +29,14 @@ Bellabeat’s product and marketing decisions.
 - Column charts
 
   ## Process
+- Validated data accuracy by removing duplicates and cross-checking aggregate metrics before and after cleaning.
 - Cleaned date/time formatting inconsistencies
 - Extracted date and hour fields for aggregation
 - Built daily and hourly pivot tables
 - Visualized activity, intensity, and sleep trends
 
 ## Key Insights
-- User activity peaks between 8 AM–7 PM, with the highest intensity
-  occurring in the late afternoon (5–7 PM).
+- User activity consistently peaks between 8 AM–7 PM across multiple days, with the highest intensity in the late afternoon (5–7 PM), indicating predictable engagement windows.
 - Sleep duration remains relatively consistent (6–8 hours),
   suggesting stable sleep habits across users.
 - Light activity dominates daily movement, while very active minutes
