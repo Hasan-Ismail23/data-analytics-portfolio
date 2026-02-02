@@ -26,7 +26,7 @@ Bellabeat’s product and marketing decisions.
 - Pivot tables
 - Exploratory data visualization
 
-  ## Process
+## Process
 - Validated data accuracy by removing duplicates and cross-checking aggregate metrics before and after cleaning.
 - Cleaned date/time formatting inconsistencies
 - Extracted date and hour fields for aggregation
