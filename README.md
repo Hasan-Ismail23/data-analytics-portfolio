@@ -9,8 +9,7 @@ Interested in product analytics, user behavior, and data-driven decision-making.
 
 ### 1. Bellabeat Fitbit User Analysis (Google Sheets)
 
-📊 **Presentation:**
-[View case study →]([./case-studies/bellabeat-fitbit](https://docs.google.com/presentation/d/14Rf3wEG9BHTF1BlTYnb5OeNzpZxNqeAGIH42CLaTmPo/edit?usp=sharing.)
+📊 Presentation: [View Google Slides Case Study →](https://docs.google.com/presentation/d/14Rf3wEG9BHTF1BlTYnb5OeNzpZxNqeAGIH42CLaTmPo/edit?usp=sharing.)
 
 ## Business Task
 Analyze Fitbit user data to identify trends in activity, sleep,
@@ -25,8 +24,7 @@ Bellabeat’s product and marketing decisions.
 ## Tools
 - Google Sheets
 - Pivot tables
-- Line and bar charts
-- Column charts
+- Exploratory data visualization
 
   ## Process
 - Validated data accuracy by removing duplicates and cross-checking aggregate metrics before and after cleaning.
@@ -54,6 +52,7 @@ Bellabeat’s product and marketing decisions.
 - Dataset represents Fitbit users, not specifically Bellabeat users
 - Short time window (2 months)
 - No demographic data available
+- Results indicate behavioral trends, not causal relationships
 
 ## Next Steps
 - Segment users by activity level
