@@ -12,6 +12,6 @@ analysis, and visualization using Google Sheets, SQL, and R.
 - Outcome: Identified daily activity and sleep patterns to inform
   Bellabeat marketing and product strategy
   
-[View case study →](./case-studies/bellabeat-fitbit)
+[View case study →]([./case-studies/bellabeat-fitbit](https://docs.google.com/presentation/d/14Rf3wEG9BHTF1BlTYnb5OeNzpZxNqeAGIH42CLaTmPo/edit?usp=sharing.)
 
 ### 2. SQL Case Study – Coming Soon
