@@ -1,12 +1,3 @@
-# Hasan Ismail – Data Analytics Portfolio
-
-## About Me
-Aspiring data analyst with hands-on experience transforming raw fitness data into actionable insights using Google Sheets, SQL, and R.  
-Interested in product analytics, user behavior, and data-driven decision-making.
-
-
-## Case Studies
-
 ### 1. Bellabeat Fitbit User Analysis (Google Sheets)
 
 📊 Presentation: [View Google Slides Case Study →](https://docs.google.com/presentation/d/14Rf3wEG9BHTF1BlTYnb5OeNzpZxNqeAGIH42CLaTmPo/edit?usp=sharing.)
@@ -58,5 +49,3 @@ Bellabeat’s product and marketing decisions.
 - Segment users by activity level
 - Analyze weekday vs weekend behavior
 - Compare activity and sleep correlations
-
-### 2. SQL Case Study – Coming Soon
