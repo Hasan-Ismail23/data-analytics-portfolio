@@ -8,7 +8,7 @@ and usage patterns, and provide insights that can help guide
 Bellabeat’s product and marketing decisions.
 
 ## Data
-- Fitbit Fitness Tracker Data (Kaggle)
+- Fitbit Fitness Tracker Data (Kaggle) (https://www.kaggle.com/datasets/arashnic/fitbit)
 - Daily activity, hourly activity, and sleep datasets
 - April–May 2016
 
